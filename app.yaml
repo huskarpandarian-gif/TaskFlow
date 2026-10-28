@@ -1,0 +1,11 @@
+runtime: php84
+
+env_variables:
+  APP_NAME: "TaskFlow"
+  APP_ENV: "production"
+  APP_DEBUG: "false"
+  APP_URL: "https://TU-URL-DE-APP-ENGINE"
+  APP_LOCALE: "es"
+  APP_FALLBACK_LOCALE: "es"
+  LOG_CHANNEL: "stderr"
+  LOG_LEVEL: "info"
